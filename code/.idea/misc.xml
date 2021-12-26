@@ -4,7 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/demo/itcast-user/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../StudyDocument/乐优商城/11-乐优商城/leyou/day02-springcloud/资料/http-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/http-demo/pom.xml" />
       </list>
     </option>
   </component>

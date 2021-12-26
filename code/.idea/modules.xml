@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../StudyDocument/乐优商城/11-乐优商城/leyou/day02-springcloud/资料/http-demo/http-demo.iml" filepath="$PROJECT_DIR$/../../../StudyDocument/乐优商城/11-乐优商城/leyou/day02-springcloud/资料/http-demo/http-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/http-demo/http-demo.iml" filepath="$PROJECT_DIR$/demo/http-demo/http-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/itcast-user/itcast-user.iml" filepath="$PROJECT_DIR$/demo/itcast-user/itcast-user.iml" />
     </modules>
   </component>
